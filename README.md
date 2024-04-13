@@ -2,7 +2,7 @@
 # Project Name
 
 ## Description
-[Provide a brief description of your project here.]
+A car dealer company that allows car dealers to post their vehicles for sale 
 
 ## Table of Contents
 1. [Installation](#installation)

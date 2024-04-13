@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Luek Classics",
+      "img": "https://i.pinimg.com/474x/93/3c/a7/933ca726519990a6e4097109aafb9390.jpg",
+      "description": "Luek Classics is a motor company dealing with classic cars.They buy written off vehicles and reestablish them to be fit to hit the roads. For more info visit their website"
+    },
+    {
+      "id": "2",
+      "title": "Luek Trucks",
+      "img": "https://i.pinimg.com/474x/72/b1/ae/72b1ae8170c5356c645334146270a678.jpg",
+      "description": "Luek Trucks deals with vintage off-road trucks.the trucks are tuned to be able to operate in extreme terrains without struggle.The trucks range forn 10000USD to 50000USD.Visit their website for more info."
+    },
+    {
+      "id": "3",
+      "title": " Luek Luxury",
+      "img": "https://i.pinimg.com/564x/04/f1/c1/04f1c12472525816950b085b283c691b.jpg",
+      "description": "Luek Luxury deals with cool luxury cars.they are new cars with zero milage allin good condition anad running well on roads "
+    }
+    
+   
+  ]
+}
