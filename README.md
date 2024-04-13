@@ -21,8 +21,7 @@ after opening the website the manager of the website is able to delete the post 
 ## Contributing
 you can fund my project by sending me tips on my number 0790603721.
 
-## License
-[Include information about the license your project is released under. You can mention the type of license and provide a link to the license file.]
+
 
 ## Live Link
 https://hadujeluk.github.io/phase-one-final-project/
