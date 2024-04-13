@@ -1,40 +1,36 @@
 # phase-one-final-project
-# Project Name
+
 
 ## Description
 A car dealer company that allows car dealers to post their vehicles for sale 
 
-## Table of Contents
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Features](#features)
-4. [Contributing](#contributing)
-5. [License](#license)
-6. [Support](#support)
-7. [Acknowledgements](#acknowledgements)
-8. [Authors](#authors)
+
 
 ## Installation
-[Explain how to install your project, including any dependencies. You can also include installation commands if applicable.]
+git clone  git@github.com:hadujeluk/phase-one-final-project.git
+
 
 ## Usage
-[Provide instructions on how to use your project. This can include examples, code snippets, or screenshots.]
+after opening the website the manager of the website is able to delete the post and  allows dealers toadd their details
 
-## Features
-[List the main features of your project. You can include both current features and planned features.]
+## Technologies Used
+1.html
+2.css
+3. javascript
 
 ## Contributing
-[Explain how others can contribute to your project, if applicable. This can include guidelines for reporting bugs, suggesting enhancements, or submitting pull requests.]
+you can fund my project by sending me tips on my number 0790603721.
 
 ## License
 [Include information about the license your project is released under. You can mention the type of license and provide a link to the license file.]
 
-## Support
-[Provide contact information or links to support resources. This can include links to documentation, FAQs, or community forums.]
+## Live Link
+https://hadujeluk.github.io/phase-one-final-project/
+
 
 ## Acknowledgements
-[Give credit to any individuals, libraries, or resources that helped inspire or create your project. You can also include links to their websites or repositories.]
+I really appreciate those who conrtributed to the succes of this project mostly  my parents for the support and my technical mentors for the skills to be able to work it out.To my friends who helped me in some areas i really appreciate
 
 ## Authors
-[List the authors or contributors of the project. You can include their names, contact information, and roles in the project.]
+Judah Luke Mumo
 
